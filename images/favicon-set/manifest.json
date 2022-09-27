@@ -1,14 +1,12 @@
 {
- "name": "Layarkaca21 - Nonton Streaming Movies",
- "short_name": "Lk21",
+ "name": "Dunia21 - Nonton Streaming Movies",
+ "short_name": "Dunia21",
  "description": "Nonton Streaming Sub Indonesia",
  "theme_color": "#e50a4a",
  "display": "standalone",
  "id":"\/",
  "start_url": "\/",
- "scope":"\/",
- "gcm_sender_id": "602505118172",
- "gcm_sender_id_comment": "Lk21",
+ "scope":"\/", 
  "icons": [
   {
    "src": "\/gh\/kipli176\/dunia21@cdn\/images\/favicon-set\/android-icon-36x36.png",
